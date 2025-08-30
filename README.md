@@ -4,6 +4,13 @@ This repository contains a minimal Streamlit app (`app.py`) to chat with **micro
 
 > You can use the base model from Hugging Face **or** load a **local** base/merged model under `./models/...`. If you have LoRA adapters from your notebook, point the app to that adapter folder to use your fine‑tuned weights.
 
+## Google Colab Notebook
+
+You can run the fine-tuning and inference directly on Google Colab using the link below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12WSMqpwqf4W7ADmYl4K1aG7YJTszUrj-#scrollTo=yZoNVRqxMaSG)
+
+
 ##  Folder Structure
 
 ```
